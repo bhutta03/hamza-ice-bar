@@ -61,31 +61,6 @@ hamza-ice-bar/
 ├── favicon.svg        # Website favicon
 └── README.md          # Project documentation
 ```
-
-## 🚀 Run Locally
-
-Clone the repository:
-
-```bash
-git clone https://github.com/bhutta03/hamza-ice-bar.git
-```
-
-Move into the project directory:
-
-```bash
-cd hamza-ice-bar
-```
-
-Then open:
-
-```text
-index.html
-```
-
-in your browser.
-
-You can also use **VS Code Live Server** for local development.
-
 ## 📍 Visit Hamza Ice Bar
 
 **Hamza Ice Bar**
@@ -99,7 +74,7 @@ Available services:
 * Dine-in
 * Takeaway
 
-## 🍦 Our Brands
+## 🍦 Brands
 
 ### Wall’s
 
@@ -110,12 +85,6 @@ Explore popular Wall’s products including Volcano, Cornetto, Magnum, Feast, Tw
 A selection of Hico ice creams is also available at Hamza Ice Bar.
 
 > Product stock and prices can change. Contact the shop for current availability.
-
-## 🌐 Deployment
-
-This is a static website and can easily be deployed using platforms such as **Vercel** or **GitHub Pages**.
-
-For Vercel, simply import this GitHub repository and deploy it without requiring a build command.
 
 ## 🤝 Contributing
 
