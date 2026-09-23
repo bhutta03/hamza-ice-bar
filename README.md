@@ -1,4 +1,3 @@
-﻿# hamza-ice-bar
 # 🍦 Hamza Ice Bar
 
 Official website for **Hamza Ice Bar**, an ice cream shop located in **Ali Sher Wala Bazar, Gujranwala, Pakistan**.
